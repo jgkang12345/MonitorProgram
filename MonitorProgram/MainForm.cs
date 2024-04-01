@@ -93,6 +93,11 @@ namespace MonitorProgram
                     e.CellStyle.ForeColor = Color.Black;
                 }
             }
+
+            if (dataGridView1.Columns[e.ColumnIndex].Name == "ConnectionCnt")
+            {
+                e.CellStyle.ForeColor = Color.Red;
+            }
         }
 
         public void InitDataGridView()
@@ -122,10 +127,15 @@ namespace MonitorProgram
             Listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             Listener.Bind(localEndPoint);
             Listener.Listen(100);
+            
             Thread acceptThread = new Thread(AcceptProc);
+            acceptThread.IsBackground = true;
             acceptThread.Start();
+            
             Thread isConnectThread = new Thread(IsConnect);
+            isConnectThread.IsBackground = true;
             isConnectThread.Start();
+
         }
 
         bool IsConnectionClosed(Socket socket)

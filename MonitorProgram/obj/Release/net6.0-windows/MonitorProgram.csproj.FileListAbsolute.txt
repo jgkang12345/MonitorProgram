@@ -1,0 +1,17 @@
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\bin\Release\net6.0-windows\MonitorProgram.exe
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\bin\Release\net6.0-windows\MonitorProgram.deps.json
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\bin\Release\net6.0-windows\MonitorProgram.runtimeconfig.json
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\bin\Release\net6.0-windows\MonitorProgram.dll
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\bin\Release\net6.0-windows\MonitorProgram.pdb
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.csproj.AssemblyReference.cache
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.RecvBuffer.resources
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.csproj.GenerateResource.cache
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.AssemblyInfoInputs.cache
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.AssemblyInfo.cs
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.csproj.CoreCompileInputs.cache
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.dll
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\refint\MonitorProgram.dll
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.pdb
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\MonitorProgram.genruntimeconfig.cache
+C:\Users\jgkang\Desktop\MonitorProgram\MonitorProgram\obj\Release\net6.0-windows\ref\MonitorProgram.dll

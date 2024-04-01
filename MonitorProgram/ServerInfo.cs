@@ -21,10 +21,11 @@ namespace MonitorProgram
         }
         public string ConnectionState { get { return _connectionState; } set { _connectionState = value; } }
         public string ServerName { get { return _serverName; } set { _serverName = value; } }
+        public int ConnectionCnt { get { return _connectionCnt; } set { _connectionCnt = value; } }
         public string IP { get { return _ip; } set { _serverName = value; } }
         public int Port { get { return _port; } set { _port = value; } }
         public long Latency { get { return _latency; } set { _latency = value; } }
-        public int ConnectionCnt { get { return _connectionCnt; } set { _connectionCnt = value; } }
+
         public int Row { get { return _row; } set { _row = value; } }
         public long LastTick { get; set; } = 0;
 
